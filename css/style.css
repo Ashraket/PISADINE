@@ -74,10 +74,20 @@ body{
     margin: 5px 0;
 }
 .navbar-toggle {
-    position: absolute;
-    right: 50%;
-    transform: translateX(50%);
-  }
+  position: absolute;
+  right: 50%;
+  transform: translateX(50%);
+}
+.navbar-header {
+  text-align: center;
+}
+.navbar-header .navbar-toggle-wrapper {
+  display: inline-block;
+}
+.navbar-brand-left img {
+  width:80px;
+}
+
 
 }
 .carousel {

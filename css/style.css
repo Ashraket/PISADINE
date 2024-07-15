@@ -87,6 +87,9 @@ body{
 .navbar-brand-left img {
   width:80px;
 }
+.footer-bs .footer-brand img{
+  width: 172px;
+}
 
 
 }
